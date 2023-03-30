@@ -1,0 +1,85 @@
+master:
+commit 3ac9b9c9a04389ad84cbe76349bf69fc73adb97c (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:50:19 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 3f2b5d924585d6cb2380d7786a0cdb5a08ad6e62
+Merge: 92b64b7 8af70f7
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 16:05:53 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 8af70f7c4947cb18e5e6040a5d31c78534c224cd (origin/bug2, bug2)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:48:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 92b64b720dac97a0673e25b3083e50d5abef5dad (origin/bug1, bug1)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:45:10 2023 +0200
+
+bug1: 
+commit 92b64b720dac97a0673e25b3083e50d5abef5dad (HEAD -> bug1, origin/bug1)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:45:10 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6ddfa6c22992e30d2611a7a7db706b9a76f334bb (origin/main, origin/HEAD)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:38:53 2023 +0200
+
+    Add java class
+
+commit cd98a2d679592b0adc2c236655b9bf8d987bd163
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:37:26 2023 +0200
+
+    Initial commit
+
+bug2:
+commit 8af70f7c4947cb18e5e6040a5d31c78534c224cd (HEAD -> bug2, origin/bug2)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:48:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 6ddfa6c22992e30d2611a7a7db706b9a76f334bb (origin/main, origin/HEAD)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:38:53 2023 +0200
+
+    Add java class
+
+commit cd98a2d679592b0adc2c236655b9bf8d987bd163
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:37:26 2023 +0200
+
+    Initial commit
+
+bug3:
+commit 3ac9b9c9a04389ad84cbe76349bf69fc73adb97c (HEAD -> bug3, origin/master, origin/bug3, origin/HEAD, master)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:50:19 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 3f2b5d924585d6cb2380d7786a0cdb5a08ad6e62
+Merge: 92b64b7 8af70f7
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 16:05:53 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 8af70f7c4947cb18e5e6040a5d31c78534c224cd (origin/bug2, bug2)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:48:29 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 92b64b720dac97a0673e25b3083e50d5abef5dad (origin/bug1, bug1)
+Author: GjeorginaLeshtova <129401237+GjeorginaLeshtova@users.noreply.github.com>
+Date:   Thu Mar 30 15:45:10 2023 +0200

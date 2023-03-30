@@ -1,0 +1,29 @@
+1. инсталирано и креирано 
+2. промена на име на гл. гранка во master
+3. Креирав мој оддалечен репозиториум именуван SI_2023_lab1_213035
+4. Направив локален репозиториум и го иницијализирав со командата $ git init
+5. Ги поврзав локалниот со оддалечениот репозиториум со $ git remote add origin
+6. Додадов датотека README.md со $ notepad, а направив комит со $ git commit -m "Initial commit"
+7. Додадов датотека SILab1.java со $ notepad, а направив комит со $ git commit -m "Add java class"
+8. Ги синхронизирав гранките со $ git push
+9. Отворив 3 гранки со $ git branch bug1 bug2 bug3 
+10. Со $ git checkout bug1 одам на гранката bug1
+11. Во for цикулусот грешката е што во изразот има <=, а треба само < и ја ставив соодветната комит порака
+12. Со $ git checkout bug2 одам на гранката bug2
+13. Во методот filterOddNumbers во if условот наместо == ставив != и ја ставив соодветната комит порака
+14. Со $ git checkout bug3 одам на гранката bug3
+15. Грешка има во сумата треба да вредноста да биде 0, втора грешка е што се множат, па наместо * ставив + и ја ставив соодветната комит порака
+16. Ги синхронизирав со $ git push --all origin
+17.Со $ git checkout master одам на гранката master
+18. Се спојува со $ git merge bug1
+19. Сите гранки се синхронизираат со $ git push --all origin
+20. Се спојува со $ git merge bug2
+21. Сите гранки се синхронизираат со $ git push --all origin
+22. Се префрлив на гранка bug3 со $ git checkout bug3
+23. Направив $ git rebase master
+24. Се префрлив со $ git checkout master
+25. Се спојува со $ git merge bug3
+26. Ги синхронизирав со $ git push origin master bug1 bug2 a bug3 со push --force
+27. Со $ notepad logs.txt отворив датотека и сите logs ги ставив. Со $ git commit -m "Final commit"
+28. Ги синхронизирав со $git push --all origin
+
